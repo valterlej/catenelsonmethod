@@ -1,4 +1,4 @@
-# Cate-Nelson Method
+# Cate-Nelson (1971)
 
 Implementação do método de Cate-Nelson para discretização de atributos químicos do solo
 
